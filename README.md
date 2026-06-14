@@ -57,9 +57,6 @@ The animation uses an interpolated cyclone track representing Cyclone Amphan's m
 - Pillow
 - FFmpeg
 
-## Preview
-
-(Add a GIF screenshot here after uploading the generated GIF.)
 
 ## Author
 
